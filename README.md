@@ -1,6 +1,6 @@
 # Canned Messages
 
-A tiny React/Firebase app allowing two users to view/create messages. Click a can to login, and chat away!
+A tiny React/Firebase app allowing two users to view/create messages. Click either the 🗑 or 🥫 to login, and chat away!
 
 ## Technology
 
